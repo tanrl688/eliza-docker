@@ -42,7 +42,11 @@ TWITTER_EMAIL="your@email.com"
 
 run
 ```
-pnpm add better-sqlite3@latest --force and npm rebuild better-sqlite3
+pnpm add better-sqlite3@latest --force 
+```
+
+```
+npm rebuild better-sqlite3
 ```
 
 
