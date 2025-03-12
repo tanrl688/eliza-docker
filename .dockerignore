@@ -1,0 +1,6 @@
+.env
+.tee-cloud
+node_modules/
+dist/
+.git/
+logs/
